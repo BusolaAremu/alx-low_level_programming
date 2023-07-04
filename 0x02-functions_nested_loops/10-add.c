@@ -7,9 +7,13 @@
  *
  * Return: sum of integers
  */
-int add(int n, int m)
+int add(int a, int b)
 {
-	int sum = n + m;
+	int c;
 
-	return (sum);
+
+	c = a + b;
+
+
+	return (c);
 }
